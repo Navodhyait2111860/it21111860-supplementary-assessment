@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Supplementary</string>
+    <string name="btn1">Confirm</string>
+    <string name="txtv1">Item</string>
+    <string name="edittext" />
+    <string name="txtv2">Price</string>
+    <string name="passw" />
+    <string name="txtv3">If you don\'t have an account?</string>
+    <string name="btn2">Sign Up</string>
+    <string name="txtv4">Enter the name</string>
+    <string name="etxt1" />
+    <string name="txtv5">Enter phone number</string>
+    <string name="etxt2" />
+    <string name="txtv6">Enter the email address</string>
+    <string name="etxt3" />
+    <string name="txtv7">Enter the address</string>
+    <string name="etxt4" />
+    <string name="txtv8">Enter password(minimum 8 chracters)</string>
+    <string name="etxt5" />
+    <string name="txtv9">Confirm password</string>
+    <string name="etxt6" />
+    <string name="btn3">Sign up</string>
+    <string name="desctxt" />
+</resources>
